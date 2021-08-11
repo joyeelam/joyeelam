@@ -4,7 +4,7 @@
 
 📫  How to reach me **joyee.l95@gmail.com**
 
-📄  Know about my experiences [https://www.linkedin.com/in/lamjoyee/](https://www.linkedin.com/in/lamjoyee/){:target="_blank"}
+📄  Know about my experiences [https://www.linkedin.com/in/lamjoyee/](https://www.linkedin.com/in/lamjoyee/)
 
 
 <h3 align="left">Languages and Tools:</h3>
