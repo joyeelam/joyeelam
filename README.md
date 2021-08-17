@@ -6,7 +6,7 @@
 
 📄  Know about my experiences [https://www.linkedin.com/in/lamjoyee/](https://www.linkedin.com/in/lamjoyee/)
 
-🌱  Check out my CV [here](https://github.com/joyeelam/joyeelam/files/6997647/LamJoYee.-.CV.pdf)
+🌱  Check out my CV [here](https://github.com/joyeelam/joyeelam/files/6999847/LamJoYee2.-.CV.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
