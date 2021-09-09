@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joyee</h1>
 
-🔭  I’m currently working on **creating my own portfolio.**
+🔭  I’m currently a Front-End Developer with [**Hiredly**](https://my.hiredly.com/?utm_source=google&utm_medium=cpc&utm_campaign=13611802544&utm_content=125943172238&utm_term=hiredly&gclid=CjwKCAjwvuGJBhB1EiwACU1AiSDC__06A1xMInrHNdJAvdqj_a8x5pPGvIIrTuRnqnBYl0GHtVzjKxoCogMQAvD_BwE)
 
 📫  How to reach me **joyee.l95@gmail.com**
 
