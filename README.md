@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joyee</h1>
 
-🔭  I’m currently a Front-End Developer with [**Hiredly**](https://my.hiredly.com/)
+🔭  I’m currently a Web Developer with [**Hiredly**](https://my.hiredly.com/)
 
 📫  How to reach me **joyee.l95@gmail.com**
 
